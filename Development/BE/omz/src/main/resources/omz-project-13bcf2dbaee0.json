@@ -3,10 +3,10 @@
   "project_id": "omz-project",
   "private_key_id": "****",
   "private_key": "-----BEGIN PRIVATE KEY-----\n****\n",
-  "client_email": "springboot-storage-access@omz-project.iam.gserviceaccount.com",
-  "client_id": "109418977676980799621",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/springboot-storage-access%40omz-project.iam.gserviceaccount.com"
+  "client_email": "**********************************",
+  "client_id": ""**********************************",
+  "auth_uri": ""**********************************",
+  "token_uri": ""**********************************",
+  "auth_provider_x509_cert_url": ""**********************************",
+  "client_x509_cert_url": ""**********************************"
 }
